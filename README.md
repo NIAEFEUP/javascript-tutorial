@@ -2,7 +2,7 @@
 
 ## Slides para a apresentação
 
-### Slides de introdução à programação em Js - https://goo.gl/6fCitB
+### Slides de introdução à programação em Js - https://goo.gl/am1YWc
 
 Este repositório contém o código fonte e ficheiros necessários para realizar os desafios propostos durante o tutorial, bem como o trabalho final.
 
